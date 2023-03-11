@@ -4,7 +4,6 @@
 .vs/VRM_AI/v17/.suo
 *.bin
 .vs/VRM_rec/v17/.suo
-*.json
 .vsconfig
 *.csproj
 Assets/Advanced INI Parser
@@ -33,6 +32,7 @@ UserSettings
 VideoCaptureLib_Log.txt
 *.sln
 OpenAI_API/wav/input.wav
+OpenAI_API/log/
 myconfig.ini
 
 config.ini
